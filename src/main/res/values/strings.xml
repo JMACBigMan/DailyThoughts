@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Random Thoughts</string>
+    <string name="enter_title">Topic</string>
+    <string name="enter_thoughts">What are you thinking?</string>
+    <string name="save">Save</string>
+    <string name="show_data_btn">Show Data</string>
+    <string name="rec_title">Rec Title</string>
+    <string name="rec_thought">Rec Thought</string>
+</resources>

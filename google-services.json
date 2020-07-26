@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877501939942",
+    "firebase_url": "https://dailythoughts-c92ff.firebaseio.com",
+    "project_id": "dailythoughts-c92ff",
+    "storage_bucket": "dailythoughts-c92ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877501939942:android:ce66db4abf578dea0c7b27",
+        "android_client_info": {
+          "package_name": "jmac.application.dailythoughts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877501939942-k85ta4qnjlrpcu3c4hcqgp3cotq6qq6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jmac.application.dailythoughts",
+            "certificate_hash": "d5cc755d46852e5e9adae8b8ec9c734dc88b82d6"
+          }
+        },
+        {
+          "client_id": "877501939942-b4cnbjfe8rlls5dckvi8vq9o4s5r8bk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpsvxsoVBOf2rqYVWH1PTfzlDJ4esOoYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877501939942-b4cnbjfe8rlls5dckvi8vq9o4s5r8bk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
